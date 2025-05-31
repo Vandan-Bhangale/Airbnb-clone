@@ -21,8 +21,6 @@ A full-stack Airbnb clone built using **Node.js**, **Express**, **MongoDB**, and
 
 ---
 
-## 🛠️ Installation
-
 ### 1. Clone the Repository
 ```bash
 https://github.com/Vandan-Bhangale/Airbnb-clone.git
